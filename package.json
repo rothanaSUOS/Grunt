@@ -1,0 +1,18 @@
+{
+  "name": "grunt_packag",
+  "version": "1.0.0",
+  "description": "Create first grunt with teacher rith",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "rothana",
+  "license": "ISC",
+  "dependencies": {
+    "grunt": "^1.0.4"
+  },
+  "devDependencies": {
+    "grunt-contrib-concat": "^1.0.1",
+    "grunt-contrib-watch": "^1.1.0"
+  }
+}
